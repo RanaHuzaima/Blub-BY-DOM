@@ -4,6 +4,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+.box{
+    margin: 50px;
+    height: 500px;
+    /* width: 500px; */
+    box-shadow: 0px 0px 5px 5px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 50px;
+    border: none;
+}
+
 #blub{
     height: 300px;
     width: 300px;
